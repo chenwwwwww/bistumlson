@@ -1,1 +1,1 @@
-！[](https://github.com/chenwwwwww/bistumlson.g/images/1.jpg)
+![image](https://github.com/chenwwwwww/bistumlson.g/images/1.jpg)
