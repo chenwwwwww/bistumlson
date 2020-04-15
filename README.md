@@ -1,1 +1,1 @@
-![image](https://github.com/chenwwwwww/bistumlson/images/1.jpg)
+![image](https://github.com/chenwwwwww/bistumlson/tree/master/images/1.jpg)
