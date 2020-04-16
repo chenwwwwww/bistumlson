@@ -2,6 +2,7 @@ BistuTalk工程
 ===========================
 1、Bistumlson比赛说明
 ------------------------------
+![image](https://mail.163.com/m/read/readdata.jsp?sid=ABqaIGeeorkjEXtCdYeeCMJmLDIZqRCN&mid=366:xS2BbgkIBlcQwGyN1QAAsa&part=3&mode=inline&l=read&action=open_attach)
 ![image](https://wx2.sinaimg.cn/mw1024/007emmkUgy1gdvrp84ja4j30zf19udnn.jpg)
 ![image](https://wx4.sinaimg.cn/mw1024/007emmkUgy1gdvrp9kj6aj30zf19uaf4.jpg)
 ![image](https://wx4.sinaimg.cn/mw1024/007emmkUgy1gdvrp5iqfbj31120rsdja.jpg)
