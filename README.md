@@ -2,9 +2,9 @@ BistuTalk工程
 ===========================
 1、Bistumlson比赛说明
 ------------------------------
-![image](http://pic.sc.chinaz.com/files/pic/pic9/202001/zzpic22716.jpg)
-![image](https://github.com/chenwwwwww/bistumlson/raw/master/images1/2.jpg)
-![image](https://github.com/chenwwwwww/bistumlson/raw/master/images1/3.jpg)
+![image](https://wx2.sinaimg.cn/mw1024/007emmkUgy1gdvrp84ja4j30zf19udnn.jpg)
+![image](https://wx4.sinaimg.cn/mw1024/007emmkUgy1gdvrp9kj6aj30zf19uaf4.jpg)
+![image](https://wx4.sinaimg.cn/mw1024/007emmkUgy1gdvrp5iqfbj31120rsdja.jpg)
 
 
 
@@ -17,11 +17,11 @@ BistuTalk工程
 2、BistuTalk工程说明：
 --------------------------------
 
-![image](https://github.com/chenwwwwww/bistumlson/raw/master/images1/text1.jpg)
-![image](https://github.com/chenwwwwww/bistumlson/raw/master/images1/text2.jpg)
-![image](https://github.com/chenwwwwww/bistumlson/raw/master/images1/text3.jpg)
-![image](https://github.com/chenwwwwww/bistumlson/raw/master/images1/text4.jpg)
-![image](https://github.com/chenwwwwww/bistumlson/raw/master/images1/text5.jpg)
+![image](https://wx2.sinaimg.cn/mw1024/007emmkUgy1gdvrp2jrxij30k00zkgn5.jpg)
+![image](https://wx1.sinaimg.cn/mw1024/007emmkUgy1gdvrp32canj30k00zkjsh.jpg)
+![image](https://wx2.sinaimg.cn/mw1024/007emmkUgy1gdvrp3l090j30k00zktaf.jpg)
+![image](https://wx3.sinaimg.cn/mw1024/007emmkUgy1gdvrp40npsj30k00zkt9e.jpg)
+![image](https://wx4.sinaimg.cn/mw1024/007emmkUgy1gdvrpalhq1j30k00zkjsl.jpg)
 
 
 
@@ -34,4 +34,4 @@ BistuTalk工程
 --------------------------------
 
 
-![image](https://github.com/chenwwwwww/bistumlson/raw/master/images1/5.jpg)
+![image](https://wx1.sinaimg.cn/mw1024/007emmkUgy1gdvruukw6cj31400u00w2.jpg)
