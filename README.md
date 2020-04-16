@@ -2,7 +2,7 @@ BistuTalk工程
 ===========================
 1、Bistumlson比赛说明
 ------------------------------
-![image](https://github.com/chenwwwwww/bistumlson/raw/master/images1/1.jpg)
+![image](http://pic.sc.chinaz.com/files/pic/pic9/202001/zzpic22716.jpg)
 ![image](https://github.com/chenwwwwww/bistumlson/raw/master/images1/2.jpg)
 ![image](https://github.com/chenwwwwww/bistumlson/raw/master/images1/3.jpg)
 
